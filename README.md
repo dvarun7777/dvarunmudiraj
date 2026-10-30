@@ -296,18 +296,42 @@ Document question-answering application using retrieval and AI-powered responses
 
 > GitHub's native contribution calendar is available directly on your profile. External activity graphs may be temporarily unavailable, so this README does not rely on a third-party contribution graph as its primary activity display.
 
----
+## 📜 Certifications & Credentials
 
-## 📜 Certifications
+### 🤖 AI & Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Gemini%20Enterprise-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+- Anthropic — Claude AI / LLM-related credential *(add exact official certification title)*
+- Google — Gemini / Generative AI credential *(add exact official certification title)*
+
+### 💻 Programming & Networking
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-Programming%20Essentials%20in%20C-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PCAP-Python-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CCNA-v7%20Networking-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NPTEL-Joy%20of%20Computing%20in%20Python-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-PCAP-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA%20v7-orange?style=for-the-badge"/>
 </p>
 
----
+- Cisco — Programming Essentials in C
+- Python Institute — PCAP
+- Cisco — CCNA v7 Networking & Routing
+
+### 📚 Additional Credentials
+
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Python-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-Developer%20Internship-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UiPath-Automation%20Explorer-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+</p>
+
+- NPTEL — The Joy of Computing using Python
+- Salesforce — Developer Virtual Internship
+- UiPath — Automation Explorer
+- Cambridge — Business English Certificate, Preliminary
 
 ## 🐍 Contribution Snake
 
