@@ -312,7 +312,11 @@ Document question-answering application using retrieval and AI-powered responses
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dvarunmudiraj/dvarunmudiraj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/dvarunmudiraj/dvarunmudiraj/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
