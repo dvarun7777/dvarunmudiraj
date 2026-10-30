@@ -1,70 +1,84 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+ <p align="center">
+  <img src="./assets/banner.png" alt="D Varun GitHub Profile Banner" width="100%">
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Engineer;Java+%7C+Spring+Boot+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Building+Scalable+Backend+Systems;Python+%7C+Generative+AI+%7C+LLMs;Always+Learning+and+Building" alt="Typing animation"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm D Varun</h1>
 
 <h3 align="center">
-Backend Engineer | Java | Spring Boot
+  Backend Engineer | Java | Spring Boot | AI/LLM Applications
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, modern APIs, and cloud-ready applications using Java and Spring Boot.
+  Building scalable backend applications, intelligent automation solutions,
+  and practical AI-powered applications.
 </p>
 
 <p align="center">
   <a href="mailto:varunmudiraj154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/d-varun-url/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/dvarunmudiraj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/varun-d-3433a2242">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://varund-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Software Engineer at Cognizant
-- ☕ Building scalable backend applications with Java & Spring Boot
-- 🏗️ Exploring distributed systems, system design, and cloud-native development
-- 🚀 Passionate about clean architecture, REST APIs, and performance optimization
+- 💼 Programmer Analyst at **Cognizant**
+- ☕ Building backend applications using **Java, Spring Boot, and SQL**
+- 🤖 Exploring **Generative AI, LLM integration, and AI-powered automation**
+- 🐍 Working with Python and AI tools to build intelligent applications
+- 🏗️ Interested in distributed systems, system design, and scalable architectures
+- 🧠 Strong foundation in Data Structures, Algorithms, OOP, and Core Computer Science
+- 🚀 Passionate about building practical solutions and continuously improving my engineering skills
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,redis,docker,git,github,linux,vscode,idea,html,css,js&perline=8"/>
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Programming Languages"/>
 </p>
 
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dvarunmudiraj&theme=github-dark-blue&hide_border=true"/>
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" alt="Backend Technologies"/>
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvarunmudiraj&theme=github-dark&hide_border=true"/>
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-3C873A?style=for-the-badge" alt="Microservices"/>
 </p>
 
----
+### 🤖 AI & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge" alt="LLM Integration"/>
+  <img src="https://img.shields.io/badge/Gemini%20Enterprise-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Enterprise"/>
+  <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation"/>
+</p>
 
-## 🏅 LeetCode Achievements
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases"/>
+</p>
 
-<p align="center">
-  <img src="./assets/screenshots/365.gif" width="140"/>
-  <img src="./assets/screenshots/200.gif" width="140"/>
-  <img src="./assets/screenshots/100.gif" width="140"/>
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" alt="Tools"/>
 </p>
 
 ---
@@ -73,53 +87,94 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Cohort Orchestration Platform
+<h3>🎓 Cohort Orchestration Platform</h3>
 
-Java • Spring Boot • PostgreSQL
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-Enterprise platform for managing cohorts, mentors, scheduling and analytics.
+<p>
+Enterprise platform for managing cohorts, mentors, scheduling, and analytics.
+</p>
 
-<a href="https://github.com/dvarunmudiraj/Cohort-Orchestration-Platform">🔗 View Repository</a>
+<p>
+  <a href="https://github.com/dvarunmudiraj/Cohort-Orchestration-Platform">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 Health Insurance Management
+<h3>🏥 Health Insurance Management System</h3>
 
-Java • Spring Boot • MySQL
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
-Insurance portal with policy management, claims, payments and admin dashboard.
+<p>
+Role-based insurance management application for policies, claims, payments, and support workflows.
+</p>
 
-<a href="https://github.com/dvarunmudiraj/HealthInsuranceManagement">🔗 View Repository</a>
+<p>
+  <a href="https://github.com/dvarunmudiraj/HealthInsuranceManagement">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔗 Scalable URL Shortener
+<h3>🔗 Scalable URL Shortener</h3>
 
-Spring Boot • Redis • PostgreSQL
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-Low-latency URL shortener with analytics and caching.
+<p>
+URL shortening application with caching, low-latency redirection, and click analytics.
+</p>
 
-<a href="https://github.com/dvarunmudiraj/Scalable-URL-Shortener-with-Analytics">🔗 View Repository</a>
+<p>
+  <a href="https://github.com/dvarunmudiraj/Scalable-URL-Shortener-with-Analytics">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Faculty Presence Detection
+<h3>🤖 Faculty Presence Detection</h3>
 
-Python • OpenCV • YOLO
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat"/>
+</p>
 
-AI-powered presence detection and automated alerts.
+<p>
+AI-powered faculty presence detection system using computer vision and automated alerts.
+</p>
 
-<a href="https://github.com/dvarunmudiraj/Faculty-Presence-Detection-and-Alert-System">🔗 View Repository</a>
+<p>
+  <a href="https://github.com/dvarunmudiraj/Faculty-Presence-Detection-and-Alert-System">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 </tr>
@@ -127,32 +182,72 @@ AI-powered presence detection and automated alerts.
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</p>
 
-<img src="https://img.shields.io/badge/Cisco-Programming%20in%20C-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PCAP-Python-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CCNA-Networking-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Python-red?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dvarunmudiraj&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvarunmudiraj&theme=github-dark&hide_border=true" alt="GitHub Contribution Activity"/>
+</p>
+
+---
+
+## 🏅 LeetCode Achievements
+
+<p align="center">
+  <img src="./assets/screenshots/365.gif" width="140" alt="365 Day LeetCode Achievement"/>
+  <img src="./assets/screenshots/200.gif" width="140" alt="200 Day LeetCode Achievement"/>
+  <img src="./assets/screenshots/100.gif" width="140" alt="100 Day LeetCode Achievement"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/d_varun/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://www.codechef.com/users/dvarun007">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
+</p>
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Programming%20Essentials%20in%20C-blue?style=for-the-badge" alt="Cisco Programming Essentials in C"/>
+  <img src="https://img.shields.io/badge/PCAP-Python-success?style=for-the-badge" alt="Python PCAP"/>
+  <img src="https://img.shields.io/badge/CCNA-v7%20Networking-orange?style=for-the-badge" alt="CCNA v7"/>
+  <img src="https://img.shields.io/badge/NPTEL-Joy%20of%20Computing%20in%20Python-red?style=for-the-badge" alt="NPTEL Python"/>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dvarunmudiraj/dvarunmudiraj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-<p align="center">
-Thanks for visiting! Feel free to explore my repositories and connect with me.
+  <img src="https://raw.githubusercontent.com/dvarunmudiraj/dvarunmudiraj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  Feel free to explore my repositories and connect with me.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dvarunmudiraj&style=flat-square&color=58A6FF" alt="Profile Views"/>
+</p>
