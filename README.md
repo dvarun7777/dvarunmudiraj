@@ -284,21 +284,16 @@ Document question-answering application using retrieval and AI-powered responses
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="GitHub Profile Statistics"
-    width="49%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=dvarunmudiraj&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvarunmudiraj&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvarunmudiraj&theme=github_dark"
-    alt="GitHub Profile Summary"
+    src="https://streak-stats.demolab.com?user=dvarunmudiraj&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
     width="100%"
   />
 </p>
